@@ -44,9 +44,6 @@ Create a MySQL database named library
 
 Use the following SQL schema to create the required tables:
 
-sql
-Copy
-Edit
 CREATE DATABASE library;
 
 CREATE TABLE book (
