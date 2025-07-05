@@ -30,13 +30,6 @@ A role-based desktop application built using **Python (Tkinter)** and **MySQL** 
 
 ---
 
-## 🗂️ Folder Structure
-├── gui.py # GUI layer with all interface windows
-├── connector.py # Handles all MySQL database operations
-└── README.md # Project documentation
-
----
-
 ## 🧪 How to Run
 
 ### 1. Clone the Repository
